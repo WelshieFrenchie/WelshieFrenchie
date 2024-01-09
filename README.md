@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Seb!
+- 👀 I’m interested in 
+- 🌱 I’m currently learning HTML/PHP/CSS and SQL, but I'm also very interested in other formats!
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: you can contact me on my other social links, such as LinkedIn or 
+- 😄 Pronouns: he/him, but whatever's fine!
+- ⚡ Fun fact: ...
