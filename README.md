@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Seb!
-- 👀 I’m interested in developping apps and websites
+- 👀 I’m interested in developping apps and websites, and I dabbled occasionally in modding communities
 - 🌱 I’m currently learning HTML/PHP/CSS, SQL, and Kotlin, but I'm also very interested in other languages!
 - 💞️ I’m not looking to collaborate on any particular project, and I'm always open for a challenge!
-- 📫 How to reach me: you can contact me on my other social links, such as LinkedIn
+- 📫 How to reach me: you can contact me on my other social links, such as my Discord
 - 😄 Pronouns: he/him, but I'm not picky
 - ⚡ Fun fact: I'm both fluent in English and French
